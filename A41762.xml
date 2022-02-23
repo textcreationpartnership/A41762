@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Grand problem briefly discussed, or, Considerations on the true mature and limits of obedience and submission to governours with respect to the different forms of an absolute and limited monarchy / by a divine of the Church of England.</title>
+            <author>Divine of the Church of England.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41762</idno>
+            <idno type="STC">Wing G1506</idno>
+            <idno type="STC">ESTC R28666</idno>
+            <idno type="EEBO-CITATION">10736348</idno>
+            <idno type="OCLC">ocm 10736348</idno>
+            <idno type="VID">45574</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45574)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1403:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Grand problem briefly discussed, or, Considerations on the true mature and limits of obedience and submission to governours with respect to the different forms of an absolute and limited monarchy / by a divine of the Church of England.</title>
+                  <author>Divine of the Church of England.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Mercer and sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Novemb. 1, 1689, J.F."</note>
+                  <note>Reproduction of original in the Union Theological Seminary, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+               <term>Divine right of kings.</term>
+               <term>Monarchy.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45574:1"/>
+            <pb facs="tcp:45574:1"/>
+            <p>
+               <hi>The Grand Problem briefly Diſcuſſed:</hi> OR, CONSIDERATIONS ON THE True <hi>NAT<g ref="char:V">Ʋ</g>RE</hi> and <hi>LIMITS</hi> OF <hi>OBEDIENCE</hi> and <hi>S<g ref="char:V">Ʋ</g>BMISSION</hi> TO GOVERNOURS. WITH Reſpect to the Different Forms OF AN <hi>Abſolute and Limited</hi> MONARCHY.</p>
+            <p>By a Divine of the Church of <hi>England.</hi>
+            </p>
+            <p>Licenſed, <hi>Novemb.</hi> 1. 1689. <hi>J. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Mercer</hi> at the <hi>Royal Exchange</hi> in <hi>Corn-hill,</hi> and Sold by <hi>Randal Taylor</hi> near <hi>Stationers-Hall,</hi> 1690.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:45574:2"/>
+            <pb facs="tcp:45574:2"/>
+            <head>THE PREFACE.</head>
+            <p>THE great prejudice which hath oppreſſed the minds of many very Good and Honeſt and well-meaning men, with a kind of <hi>Turkiſh</hi> Submiſsion to the pleaſure of their Governours, however Arbitrary and Illegal their Proceedings have been, hath riſen (I conceive) from their taking this one wrong method to determine the true bounds of their Obedience, <hi>viz.</hi> That they ſeek directions herein from the Laws of God without due regard to the Laws of our Realm. For, though we readily yield to the Holy Scripture the higheſt reſpect and veneration; though we ac<g ref="char:EOLhyphen"/>knowledg it a full and ample Rule of Manners as well as of Faith, directing all the Offices of humane Life among all degrees of men from the higheſt perſons to the loweſt; though it ſtrictly requires us to render to all men, to <hi>Caeſar</hi> as well as our pooreſt Neighbour, their due; yet it no where determines mens Civil Rights and Pro<g ref="char:EOLhyphen"/>perties.</p>
+            <p>For, as the Kingdom of Chriſt was not of this World, ſo He left the affairs of this World to be managed by the Laws of the World. It is indeed impoſsible the Scripture ſhould determine all Controverſies about <hi>(meum &amp; tuum)</hi> mens Civil Rights, what is mine, and what my Neighbours, what is <hi>Caeſars</hi> due, and what the Peoples; and this becauſe of the frequent alterations in Families, and alienation of Eſtates, and the almoſt as frequent vi<g ref="char:EOLhyphen"/>ciſsitudes
+<pb facs="tcp:45574:3"/>of Government, the ſeveral Acts of Condeſcenſion in Princes, and new Grants of Liberties and Immunities. Upon theſe ac<g ref="char:EOLhyphen"/>counts the Laws of the Land muſt be taken into Conſideration toge<g ref="char:EOLhyphen"/>ther with the Precepts of Scripture to decide the Subjects Duty.</p>
+            <p>And the contrary opinion is ſuch an errour, as if it had univer<g ref="char:EOLhyphen"/>ſally obtained muſt needs have of late proved fatal to us, not only in the loſs of our Civil Rights, but what is infinitely more conſide<g ref="char:EOLhyphen"/>rable, the benefits of our Reformed Religion.</p>
+            <p>If therefore this Paper (which contains a double Scheme, repre<g ref="char:EOLhyphen"/>ſenting the Subjects Duty in a different manner, according to the different Form of Government) may prove effectual to obviate or remove any miſtake in this caſe; to ſettle the Minds of Men in a good liking of, and due Submiſsion to the preſent Government; to the Peace and Quiet of the Nation: or have that effect more publickly which it had on ſome private perſons, to whoſe only uſe it was at firſt deſigned, 'twill be ſatisfaction enough to the Author, if he hath in the leaſt contributed to the Service of his Country, and not troubled the Reader to no purpoſe, nor ſpent an hour or two in vain.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:45574:3"/>
+            <head>THE GRAND PROBLEM BRIEFLY DISCUSSED: <hi>The QUESTION.</hi> What Obedience is due from Chriſtian Subjects to their Sovereign Prince?</head>
+            <p>THE Reſolution of this muſt be with due regard to the Nature and Quality of the Government under which we live. For,</p>
+            <p n="1">1. In an abſolute Monarchy the Subjects Obedience muſt be abſo<g ref="char:EOLhyphen"/>lute, and univerſal, or unlimited, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. Either Active Obedience to all lawful Commands, or full compliance with the Kings will in things not forbidden by God.</item>
+               <item>2. Or Paſſive Obedience, and Submiſſion to his pleaſure inſtead of per<g ref="char:EOLhyphen"/>forming his Commands when contrary to the expreſs Laws of God.</item>
+            </list>
+            <p>Firſt. The former of theſe proved.</p>
+            <list>
+               <item>(1ſt.) From Scripture: <hi>Eccleſ.</hi> 8.4. <hi>Where the Word of a King is there is power; and who may ſay unto Him, what doeſt thou?</hi> St. <hi>Matth.</hi> 22.21. <hi>Ren<g ref="char:EOLhyphen"/>der to</hi> Ceſar <hi>the things that are</hi> Ceſars. <hi>Rom.</hi> 13.4. <hi>He is the Miniſter of God.</hi> 1. <hi>Pet.</hi> 2.13. <hi>Submit your ſelves to every ordinance of man for the Lords ſake, to the King as ſupreme.</hi>
+               </item>
+               <item>(2d.) From Reaſon: VVhere the Prince is abſolute, or free from the li<g ref="char:EOLhyphen"/>mitation of any Laws, there the Subjects Obedience muſt be proportionate, and meaſured only by the Princes Edicts.</item>
+            </list>
+            <pb n="2" facs="tcp:45574:4"/>
+            <p>But if the will of the Prince be contrary to that of God, if his Edicts and the Laws of the Goſpel can't be Reconciled, the Apoſtles determinati<g ref="char:EOLhyphen"/>on is obvious, <hi>Acts</hi> 5.29. <hi>We ought to obey God rather than men.</hi> And if this expoſeth the Subject to perſecution and puniſhments to ſuffer the effects of the Kings wrath. Here is the place for the</p>
+            <p>Second ſort of Obedience, Paſſive; or Submiſſion and Non-Reſiſtance, Proved.</p>
+            <p>Firſt from Scripture-Precept, <hi>Rom.</hi> 13.2. <hi>They that reſiſt ſhall receive to themſelves damnation.</hi> And verſe 5. <hi>Ye muſt needs be ſubject not only for wrath but alſo for Conſcience ſake.</hi> 1 Pet. 2.19. <hi>This is thankworthy if a man for Con<g ref="char:EOLhyphen"/>ſcience toward God endure grief, ſuffering wrongfully.</hi> And verſe 20. <hi>If when ye do well and ſuffer for it, ye take it patiently this is acceptable with God.</hi> So that in all Caſes here is either Obedience or Submiſſion enjoyned. And the bu<g ref="char:EOLhyphen"/>ſineſs being thus ſtated by the Laws of God, how can it be capable of any alteration from a mere Civil Conſtitution? VVhat ſignifies a Law of man in a matter before determined by the Law of God.</p>
+            <p>Secondly, From Scripture-Example: Our Lord Chriſt ſubmitted to the moſt unjuſt ſentence of death, and would not uſe the aſſiſtance of Angels or Men againſt that Authority under which He lived; but commanded <hi>Peter</hi> to put up his Sword when drawn in his defence, St. <hi>Matth.</hi> 26.52. St. <hi>John</hi> 18.11. The like ſubmiſſion was practiſed by the Apoſtles, <hi>Acts</hi> 5.41. Rejoycing that they were counted worthy to ſuffer ſhame for his name.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Objection, </seg>
+               </label> If it be objected concerning our Saviour that by the will of God it was neceſſary He ſhould ſo ſubmit, in order to the redemption of the world.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſwer, </seg>
+               </label> It may be anſwered, That the ſufferings of his Diſciples and Fol<g ref="char:EOLhyphen"/>lowers are from the ſame will of God, who did predeſtinate them to be conformed to the Image of his Son, <hi>Rom.</hi> 8.29. 1 <hi>Pet.</hi> 2.21.</p>
+            <p>Thirdly, From the Example of the Primitive Chriſtians under the perſe<g ref="char:EOLhyphen"/>cution of Heathen Emperours; Particularly, from the Celebrated inſtance of the <hi>Thebaean</hi> Legion.</p>
+            <p>And what availeth it to ſay that the Laws of the Empire were againſt theſe men? Shall the Laws or Cuſtoms of Men, in themſelves ſinful and unjuſt, make them Criminals, whom the juſter and ſuperior Laws of God and Nature declare Innocent?</p>
+            <p>And to ſay that they wanted power to defend themſelves, is to contradict approved Hiſtory, and thoſe pious Fathers of the Church who wrote Apo<g ref="char:EOLhyphen"/>logies for them.</p>
+            <p n="4">4thly. Finally, From the Nature of Martyrdom: If men might defend their Lives, Liberties or Religion it ſelf by force of Arms againſt their natural and Rightful Prince what place could their be for Martyrdom, which ſeems a voluntary ſuffering of death in the cauſe of God and Religion, and for the ſake of Truth and a good Conſcience? For what thanks is it to that man
+<pb n="3" facs="tcp:45574:4"/>who dieth for his Religion, when if it were in his power he would rather kill his Perſecutors (tho' lawful Governours) than ſuffer himſelf to be put to death by them?</p>
+            <p>Theſe are the principal Arguments for Obedience, or at leaſt ſubmiſſion and Non-Reſiſtance to Governours in all Caſes, which we allow to be very good and cogent, <hi>in debitis circumſtantiis,</hi> where the Covernour is abſolute: But that they do not affect the Subjects of our Engliſh Monarchy, will I pre<g ref="char:EOLhyphen"/>ſume, be granted by them that ſeriouſly and impartially weigh the following Conſiderations.</p>
+            <p n="2">II. In a mixed Government or limited Monarchy, the Obedience due from the Subject is ſuppoſed Conditional or limited, whoſe Rule and Mea<g ref="char:EOLhyphen"/>ſure is the Laws of the Land where we live in conjunction with the Laws of God. And then Obedience is,</p>
+            <p>Either (1.) Active to all Lawful Commands, <hi>i. e.</hi> in things enjoyned or at leaſt not forbidden by the Laws of God, and <hi>the Laws of the Land.</hi>
+            </p>
+            <p>Or (2.) Paſſive, or Submiſſion to the Kings pleaſure in ſuffering patient<g ref="char:EOLhyphen"/>ly, inſtead of performing ſuch his commands as are contrary to the Laws of God, but not contrary to <hi>the Laws of the Land;</hi> and conſequently, 'tis the ſuffering <hi>Legal Penalties</hi> though undeſerved.</p>
+            <p>VVith this Reſtriction muſt all thoſe Texts be interpreted which in Scripture require Obedience, or Submiſſion. For, If the King goes about to oppreſs or deſtroy his people without authority from God, and <hi>againſt the plain Laws of the Land,</hi> it ſeems reaſonable that He may be oppoſed (at leaſt to ſome degree) by his People or Subjects.</p>
+            <p>For though a Prince is Gods Vice-gerent and ought not to be Murdered or Depoſed by his Subjects, his perſon being Sacred and reſerved only to the Divine vengeance: yet that He may (when other means prove ineffectual) be by force compelled to keep within the limits of the Law, ſeems reaſona<g ref="char:EOLhyphen"/>ble. Becauſe, otherwiſe the Laws are mere trifles and inſignificant Forma<g ref="char:EOLhyphen"/>lities. To what purpoſe are Acts of Parliament made to confirm our Liber<g ref="char:EOLhyphen"/>ties and Properties, if after ſuch confirmation we are no more ſure of enjoy<g ref="char:EOLhyphen"/>ing them than we were before? Why are great Revenues ſettled on the Crown by the peoples gift, for the grant of ſome new privilege, or con<g ref="char:EOLhyphen"/>firmation of former Grants, if notwithſtanding this, the Prince at pleaſure may trample upon all without the leaſt controul? Certainly had Parlia<g ref="char:EOLhyphen"/>ments known ſuch a power inherent in the King uncapable of Reſtriction, they would have ſaved their own and the Nations Money, and not have parted with it, to facilitate (as it may happen) their own deſtruction.</p>
+            <p>That Government in general is of Divine Inſtitution, there can be no Queſtion, St. <hi>Paul</hi> ſaith <hi>Rom.</hi> 13.1. <hi>There is no Power but of God.</hi>— but the ſpecification of this power or the different forms of Government, may depend on the pleaſure of Men. As the Husbands power over the Wife
+<pb n="4" facs="tcp:45574:5"/>is from God, yet that this man in particular rather than another ſhould ex<g ref="char:EOLhyphen"/>erciſe that power was at firſt from the deſignation, conſent and choice of the VVoman her ſelf: ſo, the Magiſtrates power is from God; yet the ex<g ref="char:EOLhyphen"/>erciſe of it by few or many hands; by one abſolute or by one limited by certain Laws and Rules, depended originally on the conſent and approbation of the people: for certainly the Scripture hath not determined which of theſe ſhould be done.</p>
+            <p>VVe read indeed the words of God Himſelf, <hi>Prov.</hi> 8.15. <hi>By me Kings Reign</hi>— and St. <hi>Paul</hi> ſpake of abſolute Emperors when he ſaid <hi>Rom.</hi> 13.1. <hi>The powers that be are ordained of God:</hi> But it doth not follow from thence that no other form of Government hath Divine Authority: For,
+<list>
+                  <item>1. As to the former Text, the verſe next following will prove Ariſtocra<g ref="char:EOLhyphen"/>cy to be <hi>jure Divino</hi> as certainly as that proves Monarchy to be ſo. <hi>Prov.</hi> 8.16. <hi>By me Princes Rule, and Nobles, even all the Judges of the Earth.</hi> And</item>
+                  <item>2. As to the latter place, if St. <hi>Paul</hi> had lived when <hi>Rome</hi> was a Common<g ref="char:EOLhyphen"/>wealth, what ſhould hinder but that he might have preacht the ſame Do<g ref="char:EOLhyphen"/>ctrine? might he not have ſaid of the Conſuls, Senate, Tribunes, <hi>&amp;c. The powers that be are ordained of God?</hi>
+                  </item>
+               </list>
+            </p>
+            <p>If Monarchy then be ſaid to be <hi>jure Divino,</hi> it muſt not be underſtood ex<g ref="char:EOLhyphen"/>cluſive of all other Forms of Government, but either in a general ſenſe, as it muſt be acknowledged the beſt, and ſubject to fewer inconveniences than any other Form; and as being the moſt agreeable to right Reaſon, and the voice of Nature, being the firſt of Governments. And that which is ſtill every where found among ſuch people as have only the light of nature to di<g ref="char:EOLhyphen"/>rect them. Or Finally, as it beſt repreſents the ſupreme authority of God on Earth. Earthly Magiſtrates being Gods Repreſentatives do beſt appear to be ſo in a Monarchical State. But that Monarchy is ſtrictly and pro<g ref="char:EOLhyphen"/>perly of Divine inſtitution cannot be defended;</p>
+            <list>
+               <item>(1.) Becauſe then, all other Forms of Government are wicked Inventions, under which it muſt be unlawful to live; the which I think none will aſſert.</item>
+               <item>(2.) Becauſe then the Monarch ſinneth againſt God if he parts with the leaſt branch of his prerogative without expreſs licenſe from Heaven: and then our Engliſh Government it ſelf, though Monarchical, muſt alſo be condemned.</item>
+            </list>
+            <p>It ſeems therefore (as I conceive) very plain, that though the Kings power be from God, whoſe Vicegerent He is, and not the peoples Creature, yet He may be limited in the exerciſe of that Power by the Laws of the Realm, made by the free conſent and approbation of Himſelf, and his people.</p>
+            <p>And this ſeems to have been the opinion of our Three laſt Kings. The Bleſſed <hi>Martyr Charles</hi> the I. Declared [from <hi>New-Marked,] That the Law was the meaſure of his power.</hi> and at another time, <hi>That his Prerogatives were built on the Law of the Land.</hi>
+            </p>
+            <pb n="5" facs="tcp:45574:5"/>
+            <p>King <hi>Charles</hi> the II. in His Speeches to his Parliaments, ſeveral times de<g ref="char:EOLhyphen"/>clared his Reſolution, <hi>To make the Law his Rule, and to Govern according to Law.</hi> And King <hi>James the Second</hi> in His Speech at His firſt ſitting in Privy Council, reciting a Calumny that had been reported of Him, <hi>That he was a man for Arbitrary Power, to aſſure us of the contrary,</hi> he ſaith, <hi>I know the Laws of</hi> England <hi>are ſufficient to make the King as great a Monarch as I can wiſh.</hi>
+            </p>
+            <p>By which it appears, That as the Kings of <hi>England</hi> are not abſolute; So the Obedience which their Subjects owe them, ſhould be meaſure by the known Laws of the Land.</p>
+            <p>If therefore the King requires that which is not forbidden by the Law of God, but yet is beyond that authority which the Conſtitutions of the King<g ref="char:EOLhyphen"/>dom have aſſigned Him, his Subjects may (for the ſake of peace, avoiding of ſcandal, or ſuch like end for the publick good) comply by a voluntary con<g ref="char:EOLhyphen"/>ceſſion with his will: but they are not in Conſcience bound to obey. And if He purſues ſuch illegal practices extravagantly, deſigning to ſubvert the peoples Civil or Religions Rights, to introduce a falſe Religion and Arbi<g ref="char:EOLhyphen"/>trary power, and enſlave not only the preſent, but all future Generations; His Subjects are ſo far from being obliged to aſſiſt Him in ſuch illegal and deſtructive Projects: That on the contrary, they ought according to their ſtations to reſiſt ſuch proceedings, defending themſelves and their own Rights, not offending Him, or retaliating injuries, but refuſing to put in execution ſuch illegal deſigns. And if they would unanimouſly reſolve on this, they might be ſafe, ſince He can never deſtroy them but by their own hands. Indeed there will never be wanting men of mean Fortunes and baſe Principles ready inſtruments to ſerve the worſt deſigns of Tyrants; and if ſuch be put into Office to oppreſs the Subject contray to Law, we know by our ancient Conſtitution, their Commiſſions are illegal, and they can have no more authority thereby, than ſuch as take purſes on the High way, and may be treatd accordingly. This is ſo evident that it needs no argument to prove it, and therefore I ſhall mention only what I before hinted, <hi>viz.</hi> That unleſs this be granted, the Laws fail of the end for which they were made, and are no ſafe-guard to the people.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Now as to that Objection, <hi>That the Nature of a Chriſtians Obe<g ref="char:EOLhyphen"/>dience being ſtated and determined by the Laws of God in Scripture, the ſubſequent Laws of man cannot alter it.</hi> I Anſwer,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is ſo indeed ſuppoſing the Government remains the ſame: But the whole weight of the Objection depends on a falſe ſuppoſition, <hi>viz. That by the Laws of God, every Government ought to be Monarchical; and every Mo<g ref="char:EOLhyphen"/>narch abſolute as the Roman Emperours were to whom the Primitive Chriſtians were Subject.</hi> But there can be no proof of this from Scripture; and conſe<g ref="char:EOLhyphen"/>quently, if a Monarch may be under Legal limitations, He can expect no other than Legal Obedience from his Subjects, notwithſtanding thoſe Texts of Scripture.</p>
+            <pb n="6" facs="tcp:45574:6"/>
+            <p>Hence alſo, the Examples of our Saviour Chriſt his Apoſtles and primi<g ref="char:EOLhyphen"/>tive Chriſtians are improperly urged againſt us, who live under a different Government, to infer abſolute ſubmiſſion to the will of the King, though they may well be urged to infer <hi>ſuch Submiſſion to the Government,</hi> i. e. <hi>To the King acting within the limits of Law.</hi> For, it may happen that by the Laws of the Land a King may have power to inflict ſore penalties on his Sub<g ref="char:EOLhyphen"/>jects for refuſing to do what they are reſtrained from doing by the ſuperiour Laws of God; and then they muſt needs ſubmit how great power ſoever they had to reſiſt; for the Laws of Religion allowing no reſiſtance, nor the Laws of the Land according to which they are ſuppoſed to ſuffer, they can have no pretence at all for reſiſting.</p>
+            <p>And here is the opportunity for paſſive Obedience and bearing the Croſs. And this was the condition of our pious Martyrs in Queen <hi>Maries</hi> Reign; they were put to death unjuſtly, but yet according to the Laws of the Land, and by the authority with which the Laws armed their Sovereign againſt them; For theſe Laws being interpreted their own Acts by their Repreſen<g ref="char:EOLhyphen"/>tatives (or of the major part of them, by which the reſt ought to be con<g ref="char:EOLhyphen"/>cluded) when executed againſt them, ought to be patiently ſubmitted to without the leaſt Reſiſtance.</p>
+            <p>This alſo our Diſſenters take to be their Caſe on whom penalties have been inflicted for Non-Conformity: They pretend Conſcience againſt Con<g ref="char:EOLhyphen"/>formity, as if it were forbidden by the Laws of God; yet being upon that account adjudged Criminals by the Laws of the Land, they ought to ſuffer patiently the effects of thoſe Laws, however innocent themſelves, or how<g ref="char:EOLhyphen"/>ever grievous and unjuſt their penalties.</p>
+            <p>As to the for-cited Examples.</p>
+            <p>Our bleſſed Saviour ſubmitted to the powers that then were, and the ſen<g ref="char:EOLhyphen"/>tence of Death was paſſed upon him by a Judg whom he acknowledged to have power given him from above. And though the power was abuſed to the injury of the innocent, yet a private perſon was not to avenge himſelf, but commit his Caſe unto God. Beſides the great end for which our Lord came into the VVorld to do and ſuffer the will of Him that ſent him for the Salvation of men obliged Him to acquieſe and ſubmit, who otherwiſe might have commanded twelve Legions of Angels to his reſcue.</p>
+            <p>Then as for the primitive Chriſtians, who when more numerous than their Enemies would not in the leaſt reſiſt their perſecutors: not when they had opportunity and capacity to reſiſt as particularly the <hi>Thebean</hi> Legion. Of which there are various opinions.</p>
+            <list>
+               <item>1. Some ſay, it was not lawful for them to reſiſt becauſe the Laws of the Empire were againſt them and their Religion. But this I conceive is not ſatisfactory; for, it may juſtly be queſtioned how theſe Laws, improperly ſo called, could oblige the Chriſtians to ſuch ſtrange ſubmiſſion and condeſcen<g ref="char:EOLhyphen"/>ſion,
+<pb n="7" facs="tcp:45574:6"/>when they ſeem deſtitute of Equity, and juſt authority; of Equity? becauſe condemning innocent perſons; and of authority, becauſe contrary to the Laws of God and Nature, and not enacted by any conſent of the people, being only Edicts or Proclamations of the Emperour. And the Emperours authority muſt be founded on one of theſe, <hi>viz.</hi> The Laws of God, and Nature, or the conſent of people. And if his Edicts were contrary to theſe it ſeems ſtrange that they ſhould lay on Chriſtians that great obligation of ſuffering death without Reſiſtance.</item>
+               <item>2. Others imagine theſe Chriſtians not to have underſtood their duty a<g ref="char:EOLhyphen"/>right, and that they ought according to the Laws of Nature to have de<g ref="char:EOLhyphen"/>fended their lives againſt unjuſt violence, but that they were under ſuch a prejudicial miſtake as the Jews were who refuſed to fight againſt there ene<g ref="char:EOLhyphen"/>mies on the Sabbath-day; and conſequently were rather to be pitied than imitated. But</item>
+               <item>3. I conceive the beſt and trueſt account of theſe pious men ſubmitting to their perſecutors even to death, is this, not only that the Imperial Laws were againſt them; much leſs that they were ignorant of their Duty or Liberty of ſelf-defence<g ref="char:punc">▪</g> But that they knew it was the poſitive VVill of God, that they ſhould glorifie Him (when called to it) by ſuffering death.</item>
+            </list>
+            <p>For, as it was the will of God to make the Captain of our Salvation per<g ref="char:EOLhyphen"/>fect through ſuffering, <hi>Heb.</hi> 2.10. So it was his will alſo to bring his follow<g ref="char:EOLhyphen"/>ers to glory the ſame way, by Patience and ſufferings, unto which St. <hi>Peter</hi> ſaith of Chriſtians, 1 <hi>Pet.</hi> 2.21.] <hi>Ye are called, becauſe Chriſt alſo ſuffered for us, leaving us an example that ye ſhould follow his ſteps, i. e.</hi> as often as they were called to it by order of Divine Providence. And this frequently hap<g ref="char:EOLhyphen"/>pened while the ſupreme power was in the hands of Heathen Princes: ſo long, it was the method of God to eſtabliſh, confirm and propagate his Church by the blood of Martyrs voluntarily dying for that Religion which they could have defended with the Sword, had not their Holy Faith reſtrain<g ref="char:EOLhyphen"/>ed them from ſuch means. And hereby the Heathen Rulers might learn, that the Kingdom of Chriſt was not of this world; that as He intended not by admitting men into his Society, to infringe any of their juſt and natural Rights: ſo He wanted not the aſſiſtance of their power to Plant or ſupport his Church and Spiritual Kingdom, which He cauſed miraculouſly to en<g ref="char:EOLhyphen"/>creaſe and proſper by thoſe very means of perſecution, blood and ſlaughter, by which they endeavoured to deſtroy it.</p>
+            <p>But after that the powers of the Earth were themſelves added to the Church, it was but juſt that as the Church imparted to them ſpiritual good things: ſo ſhe ſhould partake of their carnal. Accordingly the Chriſtian Emperours gloried in being Defenders of the Faith, enriching the Church with Revenues, dignifying it with ample privileges, ſupporting it with
+<pb n="8" facs="tcp:45574:7"/>Laws, and defending it with the power of the Sword: And by theſe means God now preſerves his Church, as He did before by miracles. And after the Church hath thus acquired many Civil Rights, and the protection of good and wholſom Laws, it would be vain preſumption for Chriſti<g ref="char:EOLhyphen"/>ans to neglect the uſe of theſe means to defend themſelves againſt the violence of Tyrants, and ex<g ref="char:EOLhyphen"/>pect that God ſhould deliver them by ſome miraculous method.</p>
+            <p>As the Children of <hi>Iſrael</hi> in the Wilderneſs were miraculouſly ſuſtained with Quails and <hi>Manna,</hi> and water out of a Rock, and clothes that waxed not old: But after they were ſettled in <hi>Canaan</hi> they had not thoſe extraordinary Proviſions, but were to live by their labours, tilling the ground and reaping the fruits of the Earth; and it would have been ſtrange preſumption in them to have omitted theſe endeavours, and ſitting ſtill, have alwayes expected to have been fed with Quails and Manna: So the Chriſtian Church, was in the firſt Ages under Perſecution as in the Wilderneſs preſerved by an extraordinary and miraculous Providence. But after the Church was incorpo<g ref="char:EOLhyphen"/>rated with the Civil State, and enjoyed peace and the protection of humane Laws, it was no lon<g ref="char:EOLhyphen"/>ger to expect ſuch favours, And for any now to quite the ſecurity of Laws againſt the violence of Perſecutors, and rely only on Divine Providence for deliverance, is like expecting Quails and Manna in <hi>Canaan;</hi> 'tis to tempt, rather than dutifully to rely on, Divine Providence.</p>
+            <p>Finally, As to the laſt difficulty, <hi>viz.</hi> That according to this account there would be no ſuch thing as Martyrdom. 1. I grant there is not that place for actual Martyrdom, the Church being now under a limited Government, as there was under an abſolute one in the primitive times. And what though the Church be altered in ſome ſuch circumſtances? Then it had frequent miracles, which now are ceaſed, as well as the opportunities of Matyrdom. 2. To thoſe that deſire this Glory I may ſay as the Apoſtles did to ſome that were fond of Circumciſion, He is not a <hi>Jew</hi> only who is ſo outwardly: ſo neither is he a Martyr only who expires in the flames; but he alſo who in diſpoſition of Soul is reſolved and ready to ſuffer if called to it. Beſides, There are (no doubt) many inſtances of Mortification, Self-denial, extraordinary Charity, <hi>&amp;c.</hi> as great and as difficult, and as meritorious as the plain ſuffering death by the Sword or Axe of an Executioner. Let us labour to excel in theſe, and ſo we may obtain a reward equal to the glory Martyrdom.</p>
+            <p>Now as to our preſent circumſtances I cannot conceive what can be urged againſt theſe things, but Either</p>
+            <list>
+               <item>(1.) The Obligation of our former Oath of Allegiance: or</item>
+               <item>(2.) The publick Declaration againſt taking up Arms againſt the King upon any pretence whatever.</item>
+            </list>
+            <p n="1">1. As to the former, I think the matter of that Oath is expired as certainly as if the Nation had been abſolutely conquered. For though all the people were not, the Governing part was, and the Government it ſelf utterly unhinged. And if any thing was done in thoſe Revolutions which ſcrupulous perſons now diſlike, to be ſure they were not acceſſory to it, and may therefore now ſubmit as conquered perſons; eſpecially if they deſire protection from the preſent eſtabliſhment.</p>
+            <p n="2">2. As to the Declaration, It muſt be conſtrued <hi>Secundum Analogiam Legis,</hi> not to make the Prince abſolute. But upon condition the Fundamental Conſtitution of the Government be preſerved, it is then unlawful for Subjects, (any or all) to take up Arms againſt their Sovereign.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45574:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
